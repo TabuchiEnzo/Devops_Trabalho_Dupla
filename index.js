@@ -1,3 +1,3 @@
 const tarefa = window.prompt("Digite alguma coisa :)")
 
-console.log(tarefa)
+console.log(`A sua tarefa é ${tarefa}`)
